@@ -1,0 +1,5 @@
+python-binance
+# TA-Lib            conda install -c conda-forge ta-lib (windows users can use this command to download)
+numpy
+backtrader
+flask
