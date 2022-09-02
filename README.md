@@ -48,7 +48,7 @@ To run this project, you will need to add the following environment variables to
 
 NOTE - Store your API key and SECRET key in your environment variable for eshtablishing secure connections.
 
-## ✍🏻Acknowledgements
+## 🔗Important References
 
  - [Get Binance API](https://www.binance.com/en/support/faq/360002502072)
  - [TA-LIB Github](https://github.com/mrjbq7/ta-lib)
