@@ -60,4 +60,4 @@ NOTE - Store your API key and SECRET key in your environment variable for eshtab
 
 ![Buy Zone](https://user-images.githubusercontent.com/55878408/188097150-5a326880-7edd-4447-98d0-934abed8234e.png)
 
-![Balances](https://user-images.githubusercontent.com/55878408/188096984-f2a87ce8-89a0-4bf4-9d8b-9fa5a60
+![Balances](https://user-images.githubusercontent.com/55878408/188096984-f2a87ce8-89a0-4bf4-9d8b-9fa5a6097d1d.png)
